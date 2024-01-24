@@ -19,3 +19,7 @@ git add submission
 git commit -m "added submission files"
 git push
 ```
+
+
+Ryan Townsend - rt0328
+John Cates - joca7396
